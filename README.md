@@ -9,8 +9,8 @@
 - [x] Functions (38/38)
 - [x] Arrays (34/34)
 - [x] Objects (61/61)
-- [ ] Loops (184/185) - *almost there!*
-- [ ] JavaScript Fundamentals Review (11/33)
+- [x] Loops (185/185) 
+- [ ] JavaScript Fundamentals Review (12/33)
 - [ ] Higher Order Functions and Callbacks (0/36)
 - [ ] DOM Manipulation and Events (0/87)
 - [ ] JavaScript and Accessibility (0/42)
